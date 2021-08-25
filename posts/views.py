@@ -20,7 +20,7 @@ class VoteCreate(generics.CreateAPIView):
     serializer_class=VoteSerializer
     permission_classes=[permissions.IsAuthenticated]
 
-    def get_queryset(self):
+    def get_queryset(self):         
         user=self.request.user
         post=Post.objects.get(pk=self.kwargs['pk'])
         return Vote.objects.filter(voter=user,post=post)
