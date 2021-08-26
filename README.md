@@ -1,5 +1,5 @@
 # Reddit model rest-api
-
+![image](https://cdn1.bbcode0.com/uploads/2021/8/26/db4130842dca33ae4f927acb664bbf0d-full.jpg)
 To run the project: python manage.py runserver
 to make use of the api:
 1. localhost:8000/admin = to view the admin panel (username=adam password=1234) or create a new superuser
