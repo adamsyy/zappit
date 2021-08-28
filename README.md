@@ -1,4 +1,4 @@
-# Zeddit model rest-api
+# Zappit model rest-api
 ![image](https://cdn1.bbcode0.com/uploads/2021/8/26/06a9ed871bc475ab0168cc0477f85424-full.jpg)
 <br>
 ![image](https://cdn1.bbcode0.com/uploads/2021/8/26/ea0975708f09c17bdb6ae3ab7f9b462c-full.jpg)
