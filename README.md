@@ -9,8 +9,6 @@ to make use of the api:
 3. localhost:8000/api/posts/<int x> = retrieve/ delete the xth post
 4. localhost:8000/api/posts/<int x>/vote = vote for the post x as well as delete the vote
 
-![image](https://cdn1.bbcode0.com/uploads/2021/8/26/4f269ff20a7d9098895a3c8c591351b9-full.jpg)
-![image](https://cdn1.bbcode0.com/uploads/2021/8/26/f8825f88dab7949bb28a8e2e77eb3100-full.jpg)
 
 Feel free to fork the project and use this api as well as use this in your frontend website/app.
 Its my first rest api exposure.
